@@ -5,9 +5,6 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * Coordinate reference systems (CRS)
     * Unprojected and projected reference systems (Datums and projections)
     * How to transform a geospatial dataset from one CRS to another
-* Geospatial data visualization
-    * Matplotlib
-    * Leaflet
 * Vector data
     * Formats (ESRI shape files, GeoPackage, GeoJson)
     * How to create geometries such as points, lines, polygons
@@ -15,6 +12,8 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * Temporal relationships
     * Spatial data integration
     * Suitability analysis
+    * Network analysis (roads)
+    * Open Street Map
 * Raster data
     * Remote sensing data
         * Satellite or aerial imagery: optical, SAR, Lidar
@@ -22,7 +21,11 @@ This repository contains Jupyter notebooks with Python code about geoscience and
         * Resampling
         * Mosaicking
         * Geo-referencing
-        * Pan-sharpening (downscaling, super-resolution)
+        * Pan-sharpening
+* Geospatial data visualization
+    * Matplotlib
+    * Leaflet
+    * Map Servers
 * Digital elevation models
 * Spatial interpolation (bilinear, cubic, kriging)
 * Map algebra
@@ -30,7 +33,15 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * Focal analysis (smoothing, gradient)
 * Zonal analysis
 * Global analysis
-* Map classification (unsupervised and supervised)
+* Machine learning
+    * Map classification (unsupervised and supervised)
+    * Segmentation
+    * Downscaling, super-resolution
 * Change detection
+* Gis Tools
+    * QGIS
+    * Spatial databases
+        * PostGIS
+        * Sqlite
 
 The notebooks are based on the [GDAL/OGR](https://gdal.org/) library and other Python packages such as [GeoPandas](https://geopandas.org/en/stable/index.html) and [Shapely](https://shapely.readthedocs.io/en/stable/).  
