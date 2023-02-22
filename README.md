@@ -33,12 +33,12 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * Focal analysis (smoothing, gradient)
 * Zonal analysis
 * Global analysis
-* Machine learning
-    * Map classification (unsupervised and supervised)
+* Machine learning (unsupervised and supervised)
+    * Map classification
     * Segmentation
     * Downscaling, super-resolution
 * Change detection
-* Gis Tools
+* GIS Tools
     * QGIS
     * Spatial databases
         * PostGIS
