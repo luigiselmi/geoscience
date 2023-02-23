@@ -8,9 +8,10 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * [Vector data](geospatial_vector_data.ipynb)
     * Formats (ESRI shape files, GeoPackage, GeoJson)
     * How to create geometries such as points, lines, polygons
-    * Spatial relationships
+    * [Spatial relationships](spatial_relationships.ipynb)
+        * [Municipalities of the Marche region](topological_operators.ipynb)
     * Temporal relationships
-    * Spatial data integration
+    * [Spatial data integration](marche_flood_event_2022.ipynb)
     * Suitability analysis
     * Network analysis (roads)
     * Open Street Map
@@ -24,17 +25,18 @@ This repository contains Jupyter notebooks with Python code about geoscience and
         * Spatial interpolation (bilinear, cubic, kriging)
         * Image fusion (Pan-sharpening)
 * Geospatial data visualization
-    * Matplotlib
+    * [Matplotlib](geospatial_data_visualization.ipynb)
+        * [Choropleth](unemployment_rate_visualization.ipynb)
     * Leaflet
     * Map Servers
-* Digital elevation models
+* [Digital elevation models](dem_marche.ipynb)
 * Map algebra
 * Local analysis
 * Focal analysis (smoothing, gradient)
 * Zonal analysis
 * Global analysis
 * Machine learning (unsupervised and supervised)
-    * Map classification
+    * [Map classification](map_classification.ipynb)
     * Segmentation
     * Downscaling, super-resolution
 * Change detection
