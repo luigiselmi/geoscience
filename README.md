@@ -46,4 +46,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
         * PostGIS
         * Sqlite
 
-The notebooks are based on the [GDAL/OGR](https://gdal.org/) library and other Python packages such as [GeoPandas](https://geopandas.org/en/stable/index.html) and [Shapely](https://shapely.readthedocs.io/en/stable/).  
+The notebooks are based on the following Python packages
+* [GDAL/OGR](https://gdal.org/) for raster to vector and vector to raster transformations
+* [GeoPandas](https://geopandas.org/en/stable/index.html) to handle vector data
+* [Shapely](https://shapely.readthedocs.io/en/stable/) for spatial relations
