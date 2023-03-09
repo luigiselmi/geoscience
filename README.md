@@ -2,7 +2,7 @@ Geospatial Data Science
 =======================
 This repository contains Jupyter notebooks with Python code about geoscience and remote sensing. Many notebooks come from the book [*Geoprocessing with Python*](https://www.manning.com/books/geoprocessing-with-python) by Chris Garrard, others are my experiments with open geospatial datasets. The topics of the notebooks follows those in the book plus others common in geostatistics.
 
-* Coordinate reference systems (CRS)
+* [Coordinate reference systems](coordinate_reference_system.ipynb)
     * Unprojected and projected reference systems (Datums and projections)
     * How to transform a geospatial dataset from one CRS to another
 * [Vector data](geospatial_vector_data.ipynb)
