@@ -19,7 +19,8 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * Remote sensing data
         * Satellite or aerial imagery: optical, SAR, Lidar
         * Sub-setting
-        * Resampling
+        * Resampling (image registration and co-registration)
+        * Random noise removal (salt and pepper noise)
         * Mosaicking
         * Geo-referencing
         * Spatial interpolation (bilinear, cubic, kriging)
@@ -40,8 +41,10 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * Segmentation
     * Downscaling, super-resolution
 * Change detection
-* GIS Tools
+* GIS and Remote Sensing Tools
     * QGIS
+    * Orfeo-Toolbox
+    * Sentinel Application Platform (SNAP) 
     * Spatial databases
         * PostGIS
         * Sqlite
