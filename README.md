@@ -25,7 +25,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
         * Mosaicking
         * Geo-referencing
         * Spatial interpolation (bilinear, cubic, kriging)
-        * Image fusion (Pan-sharpening)
+        * [Image fusion (Pan-sharpening)](pan_sharpening.ipynb)
 * Geospatial data visualization
     * [Matplotlib](geospatial_data_visualization.ipynb)
         * [Choropleth](unemployment_rate_visualization.ipynb)
