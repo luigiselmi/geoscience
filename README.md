@@ -34,15 +34,17 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * [Digital elevation models](dem_marche.ipynb)
 * Digital surface models
 * Map algebra
-* Local analysis
-* Focal analysis (smoothing, gradient)
-* Zonal analysis
-* Global analysis
+* Applications
+    * Local analysis
+    * Focal analysis (smoothing, gradient)
+    * Zonal analysis
+    * Global analysis
+    * Change detection
 * Machine learning (unsupervised and supervised)
     * [Map classification](map_classification.ipynb)
     * Segmentation
     * Downscaling, super-resolution
-* Change detection
+* Spatial data integration
 * GIS and Remote Sensing Tools
     * QGIS
     * Orfeo-Toolbox
