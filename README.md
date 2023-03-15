@@ -56,5 +56,6 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 The notebooks are based on the following open source software packages
 * [GDAL/OGR](https://gdal.org/) for raster to vector and vector to raster transformations
 * [GeoPandas](https://geopandas.org/en/stable/index.html) to handle vector data
+* [Rasterio](https://rasterio.readthedocs.io/en/stable/) for raster data
 * [Shapely](https://shapely.readthedocs.io/en/stable/) for spatial relations
 * [PROJ](https://proj.org/) for coordinates transformations
