@@ -18,7 +18,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * [Raster data](geospatial_raster_data.ipynb)
     * Remote sensing data
         * Satellite or aerial imagery: optical, SAR, Lidar
-        * Sub-setting
+        * [Sub-setting](raster_subsetting.ipynb)
         * Resampling (image registration and co-registration)
         * Orthorectification
         * Random noise removal (salt and pepper noise)
