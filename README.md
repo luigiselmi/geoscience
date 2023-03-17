@@ -59,3 +59,5 @@ The notebooks are based on the following open source software packages
 * [Rasterio](https://rasterio.readthedocs.io/en/stable/) for raster data
 * [Shapely](https://shapely.readthedocs.io/en/stable/) for spatial relations
 * [PROJ](https://proj.org/) for coordinates transformations
+* [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) for geospatial data visualization
+* [Xarray](https://docs.xarray.dev/en/stable/) for multidimensional array processing
