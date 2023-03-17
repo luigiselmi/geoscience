@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * How to transform a geospatial dataset from one CRS to another
 * [Vector data](geospatial_vector_data.ipynb)
     * Formats (ESRI shape files, GeoPackage, GeoJson)
-    * How to create geometries such as points, lines, polygons
+    * [Geometries: points, lines, polygons](vector_and_raster_data.ipynb)
     * [Spatial relationships](spatial_relationships.ipynb)
         * [Municipalities of the Marche region](topological_operators.ipynb)
     * Temporal relationships
@@ -17,7 +17,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * Open Street Map
 * [Raster data](geospatial_raster_data.ipynb)
     * Remote sensing data
-        * Satellite or aerial imagery: optical, SAR, Lidar
+        * Satellite and aerial imagery: optical, thermal, SAR, Lidar
         * [Sub-setting](raster_subsetting.ipynb)
         * Resampling (image registration and co-registration)
         * Orthorectification
