@@ -23,7 +23,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
         * Orthorectification
         * Random noise removal (salt and pepper noise)
         * Mosaicking
-        * Geo-referencing
+        * Geo-referencing and warping
         * Spatial interpolation (bilinear, cubic, kriging)
         * [Image fusion (Pan-sharpening)](pan_sharpening.ipynb)
 * Geospatial data visualization
