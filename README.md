@@ -34,6 +34,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * [Digital elevation models](dem_marche.ipynb)
 * Digital surface models
 * Map algebra
+* GDAL Virtual Format
 * Applications
     * Local analysis
     * Focal analysis (smoothing, gradient)
