@@ -14,7 +14,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * [Spatial data integration](marche_flood_event_2022.ipynb)
     * Suitability analysis
     * Network analysis (roads)
-    * Open Street Map
+    * [Open Street Map](openstreetmap.ipynb)
 * [Raster data](geospatial_raster_data.ipynb)
     * Remote sensing data
         * Satellite and aerial imagery: optical, thermal, SAR, Lidar
