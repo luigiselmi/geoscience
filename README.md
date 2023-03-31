@@ -63,3 +63,14 @@ The notebooks are based on the following open source software packages
 * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) for geospatial data visualization
 * [Folium](https://github.com/python-visualization/folium) for map visualization
 * [Xarray](https://docs.xarray.dev/en/stable/) for multidimensional array processing
+* [RasterVision](https://github.com/azavea/raster-vision) for ML and DL
+* [TorchGeo](https://github.com/microsoft/torchgeo) for ML and DL
+* [PyTorch](https://pytorch.org/) for ML and DL
+
+Other tools used for testing and satellite imagery analysis
+* [QGIS](https://qgis.org/en/site/) Vector and Raster data analysis
+* [SNAP](https://step.esa.int/main/download/snap-download/) SAR and Optical data processing
+* [Whitebox](https://www.whiteboxgeo.com/) LiDAR data processing.
+* [Orfeo Toolbox](https://www.orfeo-toolbox.org/) Remote Sensing image processing
+* [Rugged](https://www.orekit.org/site-rugged-3.0/index.html) Sensor to terrain mapping
+* [Orekit](https://www.orekit.org/) space flight dynamics, orbit and attitude determination 
