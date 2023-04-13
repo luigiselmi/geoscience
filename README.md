@@ -63,6 +63,7 @@ The notebooks are based on the following open source software packages
 * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) for geospatial data visualization
 * [Folium](https://github.com/python-visualization/folium) for map visualization
 * [Xarray](https://docs.xarray.dev/en/stable/) for multidimensional array processing
+* [scikit-image](https://scikit-image.org/) for digital image processing
 * [RasterVision](https://github.com/azavea/raster-vision) for ML and DL
 * [TorchGeo](https://github.com/microsoft/torchgeo) for ML and DL
 * [PyTorch](https://pytorch.org/) for ML and DL
