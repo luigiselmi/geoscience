@@ -75,4 +75,5 @@ Other tools used for testing and satellite imagery analysis
 * [Orfeo Toolbox](https://www.orfeo-toolbox.org/) Remote Sensing image processing
 * [Rugged](https://www.orekit.org/site-rugged-3.0/index.html) Sensor to terrain mapping, orthorectification   
 * [Orekit](https://www.orekit.org/) space flight dynamics, orbit and attitude determination
-* [Panoply](https://www.giss.nasa.gov/tools/panoply/) netCDF data viewer
+* [Panoply](https://www.giss.nasa.gov/tools/panoply/) netCDF data viewer  
+* [SAGA - System for Automated Geoscientific Analysis](https://saga-gis.sourceforge.io/en/index.html)  
