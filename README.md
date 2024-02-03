@@ -77,3 +77,4 @@ Other tools used for testing and satellite imagery analysis
 * [Orekit](https://www.orekit.org/) space flight dynamics, orbit and attitude determination
 * [Panoply](https://www.giss.nasa.gov/tools/panoply/) netCDF data viewer  
 * [SAGA](https://saga-gis.sourceforge.io/en/index.html) System for Automated Geoscientific Analysis  
+* [ImageJ](https://imagej.net/ij/index.html) Image Processing and Analysis in Java  
