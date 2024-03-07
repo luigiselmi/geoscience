@@ -79,3 +79,4 @@ Other tools used for testing and satellite imagery analysis
 * [SAGA](https://saga-gis.sourceforge.io/en/index.html) System for Automated Geoscientific Analysis  
 * [ImageJ](https://imagej.net/ij/index.html) Image Processing and Analysis in Java
 * [SIFT - Satellite Information Familiarization Tool](https://sift.ssec.wisc.edu/) meteorological satellite imagery visualization tool
+* [hale>>studio](https://wetransform.to/halestudio/) spatial data harmonisation tool
