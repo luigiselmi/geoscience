@@ -67,6 +67,8 @@ The notebooks are based on the following open source software packages
 * [RasterVision](https://github.com/azavea/raster-vision) for ML and DL
 * [TorchGeo](https://github.com/microsoft/torchgeo) for ML and DL
 * [PyTorch](https://pytorch.org/) for ML and DL
+* [GeoWombat](https://geowombat.readthedocs.io/en/latest/) geospatial and time series at scale
+* [rio-mucho](https://github.com/mapbox/rio-mucho) windowed parallel processing wrapper for rasterio
 
 Other tools used for testing and satellite imagery analysis
 * [QGIS](https://qgis.org/en/site/) Vector and Raster data analysis
