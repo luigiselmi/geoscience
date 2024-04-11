@@ -29,7 +29,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * Geospatial data visualization
     * [Matplotlib](geospatial_data_visualization.ipynb)
         * [Choropleth](unemployment_rate_visualization.ipynb)
-    * Leaflet
+    * [Leaflet](web_mapping.ipynb)
     * Map Servers
 * [Digital elevation models](dem_marche.ipynb)
 * Digital surface models
