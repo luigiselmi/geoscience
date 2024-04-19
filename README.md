@@ -36,10 +36,10 @@ This repository contains Jupyter notebooks with Python code about geoscience and
 * Map algebra
 * GDAL Virtual Format
 * Applications
-    * Local analysis
-    * Focal analysis (smoothing, gradient)
-    * Zonal analysis
-    * Global analysis
+    * [Local analysis](geospatial_raster_data.ipynb)
+    * [Focal analysis](geospatial_raster_data.ipynb) (smoothing, gradient)
+    * [Zonal analysis](geospatial_raster_data.ipynb)
+    * [Global analysis](geospatial_raster_data.ipynb)
     * Change detection
 * Machine learning (unsupervised and supervised)
     * [Map classification](map_classification.ipynb)
