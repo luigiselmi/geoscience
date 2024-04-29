@@ -32,7 +32,7 @@ This repository contains Jupyter notebooks with Python code about geoscience and
     * [Leaflet](web_mapping.ipynb)
     * Map Servers
 * [Digital elevation models](dem_marche.ipynb)
-* Digital surface models
+* Digital surface and terrain models
 * Map algebra
 * GDAL Virtual Format
 * Applications
