@@ -82,7 +82,8 @@ Other tools used for testing and satellite imagery analysis
 * [ImageJ](https://imagej.net/ij/index.html) Image Processing and Analysis in Java
 * [SIFT - Satellite Information Familiarization Tool](https://sift.ssec.wisc.edu/) meteorological satellite imagery visualization tool
 * [hale>>studio](https://wetransform.to/halestudio/) spatial data harmonisation tool
-* [MicMac](https://github.com/micmacIGN/micmac?tab=readme-ov-file) photogrammetry
+* [MicMac](https://github.com/micmacIGN/micmac?tab=readme-ov-file) photogrammetry  
+* [xEOFs - Empirical Orthogonal Functions](https://xeofs.readthedocs.io/en/latest/index.html)  
 
 Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
