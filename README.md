@@ -83,6 +83,7 @@ Other tools used for testing and satellite imagery analysis
 * [SIFT - Satellite Information Familiarization Tool](https://sift.ssec.wisc.edu/) meteorological satellite imagery visualization tool
 * [hale>>studio](https://wetransform.to/halestudio/) spatial data harmonisation tool
 * [MicMac](https://github.com/micmacIGN/micmac?tab=readme-ov-file) photogrammetry  
+* [Atmospheric Toolbox](https://atmospherictoolbox.org/)  
 * [xEOFs - Empirical Orthogonal Functions](https://xeofs.readthedocs.io/en/latest/index.html)  
 
 Geoscience tools
