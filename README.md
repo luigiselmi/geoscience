@@ -70,7 +70,7 @@ The notebooks are based on the following open source software packages
 * [GeoWombat](https://geowombat.readthedocs.io/en/latest/) geospatial and time series at scale
 * [rio-mucho](https://github.com/mapbox/rio-mucho) windowed parallel processing wrapper for rasterio
 
-Other tools used for testing and satellite imagery analysis
+Other tools used for testing and satellite imagery analysis and processing
 * [QGIS](https://qgis.org/en/site/) Vector and Raster data analysis
 * [SNAP](https://step.esa.int/main/download/snap-download/) SAR and Optical data processing
 * [Whitebox](https://www.whiteboxgeo.com/) LiDAR data processing.
@@ -85,6 +85,7 @@ Other tools used for testing and satellite imagery analysis
 * [MicMac](https://github.com/micmacIGN/micmac?tab=readme-ov-file) photogrammetry  
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/)  
 * [xEOFs - Empirical Orthogonal Functions](https://xeofs.readthedocs.io/en/latest/index.html)  
+* [COLMAP](https://colmap.github.io/) stereo image processing, photogrammetry  
 
 Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
