@@ -85,7 +85,7 @@ Other tools used for testing and satellite imagery analysis and processing
 * [MicMac](https://github.com/micmacIGN/micmac?tab=readme-ov-file) photogrammetry  
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/)  
 * [xEOFs - Empirical Orthogonal Functions](https://xeofs.readthedocs.io/en/latest/index.html)  
-* [COLMAP](https://colmap.github.io/) stereo image processing, photogrammetry  
+* [COLMAP](https://colmap.github.io/) stereo image processing, 3D reconstruction, photogrammetry  
 
 Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
