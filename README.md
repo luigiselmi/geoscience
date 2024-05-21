@@ -86,6 +86,7 @@ Other tools used for testing and satellite imagery analysis and processing
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/)  
 * [xEOFs - Empirical Orthogonal Functions](https://xeofs.readthedocs.io/en/latest/index.html)  
 * [COLMAP](https://colmap.github.io/) stereo image processing, 3D reconstruction, photogrammetry  
+* [AliceVision - Photogrammetric Computer Vision Framework](https://alicevision.org/)  
 
 Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
