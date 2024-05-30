@@ -69,6 +69,7 @@ The notebooks are based on the following open source software packages
 * [PyTorch](https://pytorch.org/) for ML and DL
 * [GeoWombat](https://geowombat.readthedocs.io/en/latest/) geospatial and time series at scale
 * [rio-mucho](https://github.com/mapbox/rio-mucho) windowed parallel processing wrapper for rasterio
+* [The Generic Mapping Tools](https://www.generic-mapping-tools.org/) Earth science data manipulation and visualization
 
 Other tools used for testing and satellite imagery analysis and processing
 * [QGIS](https://qgis.org/en/site/) Vector and Raster data analysis
