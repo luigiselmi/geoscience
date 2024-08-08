@@ -94,4 +94,8 @@ Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
 * [MODFLOW USGS Modular Hydrologic Model](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)  
 * [NASA GISS G.Projector](https://www.giss.nasa.gov/tools/gprojector/) Map projections
-* [H3 - Hexagonal hierarchical geospatial indexing system](https://h3geo.org/) geospatial indexing 
+* [H3 - Hexagonal hierarchical geospatial indexing system](https://h3geo.org/) geospatial indexing
+
+Geospatial Datasets
+* [OpenTopography](https://opentopography.org/), Digital elevation models
+* [Nevada Geodetic Laboratory - The MAGNET GPS Network](http://geodesy.unr.edu/magnet.php), Land positioning and motion data
