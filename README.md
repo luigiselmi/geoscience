@@ -103,7 +103,8 @@ Geoscience tools
 * [H3 - Hexagonal hierarchical geospatial indexing system](https://h3geo.org/) geospatial indexing  
 * [OPeNDAP](https://www.opendap.org/), client-server software for geospatial data distribution  
 * [NCO](https://nco.sourceforge.net/), command-line toolkit for netCDF, Zarr, HDF5 files  
-* [Zarr](https://zarr.dev/), file format for n-dimensional arrays and tensors 
+* [Zarr](https://zarr.dev/), file format for n-dimensional arrays and tensors  
+* [Spyder](https://www.spyder-ide.org/), Python integrated development environment, an alternative to Jupyter notebooks 
 
 Geospatial Datasets
 * [OpenTopography](https://opentopography.org/), Digital elevation models
