@@ -100,7 +100,10 @@ Geoscience tools
 * [The Hydrologic Modeling System](https://www.hec.usace.army.mil/software/hec-hms/)  
 * [MODFLOW USGS Modular Hydrologic Model](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)  
 * [NASA GISS G.Projector](https://www.giss.nasa.gov/tools/gprojector/) Map projections
-* [H3 - Hexagonal hierarchical geospatial indexing system](https://h3geo.org/) geospatial indexing
+* [H3 - Hexagonal hierarchical geospatial indexing system](https://h3geo.org/) geospatial indexing  
+* [OPeNDAP](https://www.opendap.org/), client-server software for geospatial data distribution  
+* [NCO](https://nco.sourceforge.net/), command-line toolkit for netCDF, Zarr, HDF5 files  
+* [Zarr](https://zarr.dev/), file format for n-dimensional arrays and tensors 
 
 Geospatial Datasets
 * [OpenTopography](https://opentopography.org/), Digital elevation models
