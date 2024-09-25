@@ -67,6 +67,7 @@ The notebooks are based on the following open source software packages
 * [PyKRIGE](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/), geostatistics, kriging
 * [pyGIMLi](https://www.pygimli.org/), inversion for geophysics
 * [xESMF](https://xesmf.readthedocs.io/en/stable/), regridding
+* [FiPy](https://www.ctcms.nist.gov/fipy/), partial differential equations solver
 * [scikit-image](https://scikit-image.org/) for digital image processing
 * [RasterVision](https://github.com/azavea/raster-vision) for ML and DL
 * [TorchGeo](https://github.com/microsoft/torchgeo) for ML and DL
