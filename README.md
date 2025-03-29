@@ -104,7 +104,8 @@ Geoscience tools
 * [OPeNDAP](https://www.opendap.org/), client-server software for geospatial data distribution  
 * [NCO](https://nco.sourceforge.net/), command-line toolkit for netCDF, Zarr, HDF5 files  
 * [Zarr](https://zarr.dev/), file format for n-dimensional arrays and tensors  
-* [Spyder](https://www.spyder-ide.org/), Python integrated development environment, an alternative to Jupyter notebooks 
+* [Spyder](https://www.spyder-ide.org/), Python integrated development environment, an alternative to Jupyter notebooks
+* [USGS ShakeMap Manual](https://usgs.github.io/shakemap/index.html), seismic data visualization
 
 Geospatial Datasets
 * [OpenTopography](https://opentopography.org/), Digital elevation models
