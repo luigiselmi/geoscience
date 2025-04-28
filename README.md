@@ -65,6 +65,7 @@ The notebooks are based on the following open source software packages
 * [Xarray](https://docs.xarray.dev/en/stable/) for multidimensional array processing
 * [SciPy](https://scipy.org/), interpolation, linear algebra, numerical integration, optimization
 * [PyKRIGE](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/), geostatistics, kriging
+* [GeoStat](https://geostat-framework.org/), geostatistics, kriging, random field generation, variogram estimation
 * [pyGIMLi](https://www.pygimli.org/), inversion for geophysics
 * [xESMF](https://xesmf.readthedocs.io/en/stable/), regridding
 * [FiPy](https://www.ctcms.nist.gov/fipy/), partial differential equations solver
