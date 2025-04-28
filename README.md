@@ -76,6 +76,7 @@ The notebooks are based on the following open source software packages
 * [rio-mucho](https://github.com/mapbox/rio-mucho) windowed parallel processing wrapper for rasterio
 * [The Generic Mapping Tools](https://www.generic-mapping-tools.org/) Earth science data manipulation and visualization  
 * [HoloViz](https://holoviz.org/) high-level tools for visualization
+* [PySAL](https://pysal.org/index.html), spatial analysis
 
 Other tools used for testing and satellite imagery analysis and processing
 * [QGIS](https://qgis.org/en/site/) Vector and Raster data analysis
@@ -106,6 +107,7 @@ Geoscience tools
 * [Zarr](https://zarr.dev/), file format for n-dimensional arrays and tensors  
 * [Spyder](https://www.spyder-ide.org/), Python integrated development environment, an alternative to Jupyter notebooks
 * [USGS ShakeMap Manual](https://usgs.github.io/shakemap/index.html), seismic data visualization
+* [GeoDa](https://geodacenter.github.io/), spatial data science
 
 Geospatial Datasets
 * [OpenTopography](https://opentopography.org/), Digital elevation models
