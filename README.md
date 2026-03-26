@@ -113,4 +113,4 @@ Geoscience tools
 Geospatial Datasets
 * [OpenTopography](https://opentopography.org/), Digital elevation models
 * [Nevada Geodetic Laboratory - The MAGNET GPS Network](http://geodesy.unr.edu/magnet.php), Land positioning and motion data
-* [World Strees Map](https://www.world-stress-map.org/), seismology dataset
+* [World Stress Map](https://www.world-stress-map.org/), seismology dataset
